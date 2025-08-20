@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+header {
+    
+}
+
+.button {
+    
+}
+
+nav {
+    
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+article {
+   background-color:gray ;
+   padding: 15px 45px 30px 45px;
+   width: 400px;
+   margin:20px;
+   border-radius:20px;
+}
+
+.article-but {
+    text-decoration:none;
+    text-align:center;
+    padding:10px 71px 10px 71px;
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+img {
+    border-radius:10px;
+}
+a {
+    border:3px solid white;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+    
